@@ -1,3 +1,0 @@
-book-your-show-app/
-├── client/      # React app
-├── server/      # Node.js + Express backend
